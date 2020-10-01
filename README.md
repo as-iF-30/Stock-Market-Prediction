@@ -5,7 +5,7 @@ American stocks has been included in this, there are already samples in it to ge
 ## - Must download Python library: 
   - [Pandas](https://github.com/pandas-dev/pandas)
   - [NumPy](https://github.com/numpy/numpy)
-  - Quandel
+  - [Quandl](https://www.quandl.com/)
   - [Prophet](https://facebook.github.io/prophet/)
   - [PyTrends](https://github.com/GeneralMills/pytrends)
   - [Matplolib](https://github.com/matplotlib/matplotlib)
